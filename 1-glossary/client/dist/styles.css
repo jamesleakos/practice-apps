@@ -58,3 +58,38 @@ main {
   padding: 16px;
   margin: auto;
 }
+
+.term {
+  margin: 10px 0;
+}
+
+.term-input {
+  border: 1px solid black;
+  padding: 5px;
+  margin: 5px 0;
+}
+
+.edit-button {
+  position: absolute;
+  left: 620px;
+}
+
+.delete-button {
+  position: absolute;
+  left: 700px;
+}
+
+.add-button {
+  margin-top: 10px;
+  position: absolute;
+  left: 620px;
+}
+
+.term-text {
+  display: inline-block;
+  width: 300px;
+}
+
+.form-field {
+  margin: 10px 10px 10px 10px;
+}
